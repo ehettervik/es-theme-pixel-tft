@@ -1,9 +1,10 @@
-Theme 'pixel tft' v0.2 - 08-22-2016 by Rookervik
+Theme 'pixel tft' v1.9.3 - 11-7-2016 by Rookervik
 
 Thanks to muriani for the super-sexy Sega CD logo! 
 
 Updates:
 8-22-2016: Added TRS-80
+11/9/2016: Added a lot. Brought back in sync with the main Pixel theme.
 
 
 
